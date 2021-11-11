@@ -73,4 +73,5 @@ With some good approaches and a developing mindset, I believe we all can quantit
 * Graphing in R with Plotly: https://plotly.com/r/
 * R color cheatsheet: https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf
 * ggplot2 cheatsheet: https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf
+* dplyr & tidyr cheatsheet: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 * STHDA: http://www.sthda.com/english/wiki/wiki.php
