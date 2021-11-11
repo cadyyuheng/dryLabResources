@@ -1,5 +1,5 @@
 
-# Yi Lab analysis resources
+# Yi Lab resources for dry lab
 
 This page aims to introduce Yi lab members to basic statistics, basic programming in R/Python, and classic pipelines for biological data analysis with a focus on single-cell data.
 
