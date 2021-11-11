@@ -5,7 +5,7 @@ This page aims to introduce Yi lab members to basic statistics, basic programmin
 
 At this time, I will not include any of my own code. Instead, I plan to deposit my code for different projects in a way that we can later include the link to the corresponding repository in the paper as part of our effort to promote reproducible science. This is to be said, for now, I will only list tutorials put together by other people.  Even though people have asked me to include some comments on popular tutorials (e.g. Seurat), personally I found comments in those popular tutorials are very detailed and already more than enough (and, if you don't read their comments, probably you won't read mine either). Moreover, who else can be more qualified than the developer themselves to tell people the best practice for using the packages?
 
-However, it is certainly overwhelming for people new to programming to get started. So here are a few things that I wished someone could tell me as a beginners:
+However, it is certainly overwhelming for people new to programming to get started. So here are a few things that I wished someone could tell me when I was a beginner:
 
 * First thing first, learn the language 
     * You know, nobody will understand Shakespeare without knowing the alphabet
