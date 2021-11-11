@@ -40,7 +40,13 @@ With some good approaches and a developing mindset, I believe we all can quantit
 * Book -- **Statistics Using R with Biological Examples**: https://cran.r-project.org/doc/contrib/Seefeld_StatsRBio.pdf
 * Book -- **An Introduction to Statistical Learning**: https://www.statlearning.com/
 
+## Some Walkthrough tutorials for analysis
 
+* **A scRNA-seq Analysis course by the Wellcome Sanger Institute**
+    * Link: https://www.singlecellcourse.org/index.html
+* **Dave Tang's Blog for various analysis examples** (He also had postes about scRNA analysis )
+    * Link: https://davetang.org/muse/
+ 
 ## Some popular packages for SC analysis
 
 * **From Rahul Satija lab** (R-based)
@@ -67,6 +73,7 @@ With some good approaches and a developing mindset, I believe we all can quantit
     * Module **scVelo** (RNA velocity and dynamics analysis)
         * Papers: https://doi.org/10.1038/s41586-018-0414-6; https://doi.org/10.1038/s41587-020-0591-3
         * Tutorials: https://scvelo.readthedocs.io/getting_started/
+
 ## Other resourses
 
 * Seruat command list: https://satijalab.org/seurat/articles/essential_commands.html
