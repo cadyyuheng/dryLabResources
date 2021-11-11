@@ -40,7 +40,7 @@ With some good approaches and a developing mindset, I believe we all can quantit
 * Book -- **Statistics Using R with Biological Examples**: https://cran.r-project.org/doc/contrib/Seefeld_StatsRBio.pdf
 * Book -- **An Introduction to Statistical Learning**: https://www.statlearning.com/
 
-## Some Walkthrough tutorials for analysis
+## Some Walkthrough & tutorials for analysis
 
 * **A scRNA-seq Analysis course by the Wellcome Sanger Institute**
     * Link: https://www.singlecellcourse.org/index.html
